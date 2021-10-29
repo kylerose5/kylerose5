@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylerose5
 - 👀 I’m interested in practicing cyber secuirty skills through hands on labs.
-- 🌱 I’m currently learning Penration Testing and conducting a complete pentration test and report. 
+- 🌱 I’m currently learning Penetration Testing and conducting a complete pentration test and report. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
